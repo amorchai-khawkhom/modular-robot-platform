@@ -73,7 +73,7 @@ This repository contains real prototype development including:
 <img width="3024" height="4032" alt="ESP32 Cognitive4" src="https://github.com/user-attachments/assets/96744803-ed7d-425a-9c88-c53277927d5c" />
 
 ### CAD Design
-(ใส่รูป CAD assembly)
+
 
 ### Internal Layout
 <img width="1065" height="657" alt="Screenshot 2025-12-15 022400" src="https://github.com/user-attachments/assets/bfce3bc1-8263-4c1a-a818-c5a60a76c89e" />
