@@ -128,3 +128,9 @@ Amorchai Khawkhom
 (อมรชัย ขาวขำ)
 
 Electronics & Robotics Engineer
+
+## Video Demonstrations
+
+Additional robotics and embedded system demonstrations are available on the YouTube channel:
+
+https://www.youtube.com/@gupaditkman1335
