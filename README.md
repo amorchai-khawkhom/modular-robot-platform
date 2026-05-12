@@ -123,14 +123,11 @@ YouTube Shorts:
 (https://www.youtube.com/shorts/AFmoXGImKVo)
 
 ## Author
-
-Amorchai Khawkhom  
-(อมรชัย ขาวขำ)
-
+Amorchai Khawkhom (อมรชัย ขาวขำ)
 Electronics & Robotics Engineer
+Embedded Systems • Robotics • CAD Design • Prototyping  • 3D Printer
 
-## Video Demonstrations
-
-Additional robotics and embedded system demonstrations are available on the YouTube channel:
+### Video Demonstrations
+Additional robotics , 3D Printer , miniCNC , Laser and embedded system demonstrations are available on the YouTube channel:
 
 https://www.youtube.com/@gupaditkman1335
